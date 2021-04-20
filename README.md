@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there / Привет всем 👋
 
-<!--
-**Sovencho/Sovencho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Bio/Био:
+*Русский разраб
+*Учу и кодю на Python и на Kotlin
+*Разрабатываю PivoBot, классного бота для Discord
 
-Here are some ideas to get you started:
+###Тулзы:
+*VSCode/Intellij IDEA
+*GitHub
+*Discord/Telegram
+*Windows 10/Fedora Linux 34
+*Fresh Bar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###В планах:
+*Доделать PivoBot
+*Создать собственный сайт
