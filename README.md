@@ -6,7 +6,7 @@
 * Разрабатываю PivoBot, классного бота для Discord
 
 ## Тулзы:
-* VSCode/Intellij IDEA
+* VSCode/WebStorm
 * GitHub
 * Discord/Telegram
 * Windows 10/Fedora Linux 34
