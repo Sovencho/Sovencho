@@ -2,8 +2,7 @@
 
 ## Bio/Био:
 * Русский разраб
-* Учу и кодю на JS
-* Разрабатываю PivoBot, классного бота для Discord
+* Учу и кодю на JS и Python
 
 ## Тулзы:
 * VSCode/WebStorm
@@ -12,6 +11,3 @@
 * Windows 10/Fedora Linux 34
 * Fresh Bar)
 
-### В планах:
-* Доделать PivoBot
-* Создать собственный сайт
