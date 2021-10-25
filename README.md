@@ -2,10 +2,10 @@
 
 ## Bio/Био:
 * Русский разраб
-* Учу и кодю на JS и Python
+* Учу и кодю на C# и Python
 
 ## Тулзы:
-* VSCode/WebStorm
+* VSCode/VS2019
 * GitHub
 * Discord/Telegram
 * Windows 10/Fedora Linux 34
