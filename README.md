@@ -5,9 +5,8 @@
 * Учу и кодю на Java, и Python
 
 ## Тулзы:
-* VSCode/VS2019
+* VSCode/Intelij IDEA
 * GitHub
 * Discord/Telegram
-* Windows 10/Fedora Linux 34
-* Fresh Bar)
+* Windows 11/Windows 10/Fedora Linux
 
