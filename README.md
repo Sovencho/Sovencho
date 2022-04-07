@@ -2,7 +2,7 @@
 
 ## Bio/Био:
 * Русский разраб
-* Учу и кодю на Java, и Python
+* Учу и кодю на Java и Python
 
 ## Тулзы:
 * VSCode/Intelij IDEA
