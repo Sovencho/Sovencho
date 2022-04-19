@@ -10,3 +10,5 @@
 * Discord/Telegram
 * Windows 11/Windows 10/Fedora Linux
 
+zdarovozaebal
+
