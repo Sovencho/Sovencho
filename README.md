@@ -2,7 +2,7 @@
 
 ## Bio/Био:
 * Русский разраб
-* Учу и кодю на Java, Python, Kotlin
+* Учу и кодю на Java, Python, C#
 
 ## Тулзы:
 * VSCode/Intelij IDE/Android Studio
