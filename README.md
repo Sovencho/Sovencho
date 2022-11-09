@@ -5,7 +5,7 @@
 * Учу и кодю на Java, Python, C#
 
 ## Тулзы:
-* VSCode/Intelij IDE/Android Studio
+* VSCode/Intelij IDEA/Android Studio
 * GitHub
 * Discord/Telegram
 * Windows 11/Windows 10/Fedora Linux
